@@ -1,0 +1,6 @@
+{
+  "name": "Coach Kwandeka",
+  "description": "High-Performance Fitness, Strength & Mindset Coaching Platform for Coach Joseph Kwandeka",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
